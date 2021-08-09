@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ben Guenter
 
-[![GitHub Logo](https://api.daily.dev/devcards/db1e6ceb4f75498c97f3411fa4b25b50.png?r=osm)](https://app.daily.dev/benguenter)
+[![GitHub Logo](https://api.daily.dev/devcards/db1e6ceb4f75498c97f3411fa4b25b50.png?r=osm | width=400)](https://app.daily.dev/benguenter)
 
 ## &#x1f4c8; My GitHub Stats
 
