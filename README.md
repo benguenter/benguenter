@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Ben Guenter
 
-<img src="https://api.daily.dev/devcards/db1e6ceb4f75498c97f3411fa4b25b50.png?r=k47" width="400" alt="Ben Guenter's Dev Card"/>
-[![GitHub Logo](https://api.daily.dev/devcards/db1e6ceb4f75498c97f3411fa4b25b50.png?r=osm|width=400px)](https://app.daily.dev/benguenter)
+
+[<img src="https://api.daily.dev/devcards/db1e6ceb4f75498c97f3411fa4b25b50.png?r=k47" width="400" alt="Ben Guenter's Dev Card"/>](https://app.daily.dev/benguenter)
 
 ## &#x1f4c8; My GitHub Stats
 
