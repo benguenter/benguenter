@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Ben Guenter
+
+<a href="https://app.daily.dev/benguenter"><img src="https://api.daily.dev/devcards/db1e6ceb4f75498c97f3411fa4b25b50.png?r=osm" width="400" alt="Ben Guenter's Dev Card"/></a>
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benguenter&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Bens GitHub stats](https://github-readme-stats.vercel.app/api?username=benguenter&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **benguenter/benguenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
